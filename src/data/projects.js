@@ -39,8 +39,8 @@ export const projects = [
       "A sleek, animated personal portfolio built with Next.js 14, Tailwind CSS, and Framer Motion. Features dark mode aesthetics and smooth scroll animations.",
     tags: ["Next.js", "Tailwind CSS", "Framer Motion"],
     category: "Frontend",
-    demoLink: "#",
-    githubLink: "#",
+    demoLink: "https://belal-bahaa.vercel.app/",
+    githubLink: "https://github.com/belalbahaa1/belal-bahaa",
   },
   {
     title: "E-Learning Platform",
