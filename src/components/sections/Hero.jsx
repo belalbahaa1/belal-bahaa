@@ -80,7 +80,7 @@ export default function Hero() {
               <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
             </Button>
           </Link>
-          <a href="/belal-bahaa-cv.pdf" download>
+          <a href="/Belal-Bahaa-Mohamed-cv.pdf" download>
             <Button
               variant="outline"
               size="lg"
